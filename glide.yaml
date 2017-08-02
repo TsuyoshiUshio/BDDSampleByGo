@@ -1,0 +1,8 @@
+package: github.com/TsuyoshiUshio/BDDSampleByGo
+import:
+- package: github.com/onsi/ginkgo
+  version: ~1.4.0
+  subpackages:
+  - ginkgo
+- package: github.com/onsi/gomega
+  version: ~1.2.0
