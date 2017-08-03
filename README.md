@@ -294,3 +294,4 @@ $ go get -u github.com/Azure/azure-sdk-for-go
 package github.com/Azure/azure-sdk-for-go: no buildable Go source files in /Users/ushio/Codes/gosample/src/github.com/Azure/azure-sdk-for-go
 ```
 
+I wrote a Mock Sample blog. [Go Mock](https://github.com/TsuyoshiUshio/GoMock)
